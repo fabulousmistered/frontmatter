@@ -50,6 +50,7 @@
   "frontMatter.preview.host": "http://localhost:8080",
   "frontMatter.content.pageFolders": [
     {
+      "title": "Database Folder",
       "path": "[[workspace]]/.frontmatter/database"
     }
   ],
